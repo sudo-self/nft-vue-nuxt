@@ -6,7 +6,7 @@ export default defineAppConfig({
 
   nuxtIcon: {
     iconifyApiOptions: {
-      publicApiFallback: false
+      publicApiFallback: true
     },
 
     class: '',

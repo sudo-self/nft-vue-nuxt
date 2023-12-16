@@ -7,8 +7,10 @@ export default defineAppConfig({
 
   nuxtIcon: {
     iconifyApiOptions: {
+      publicApiFallback: false
     },
 
-    class: 'tailwind.css'
+    class: '',
+    size: ''
   }
 })

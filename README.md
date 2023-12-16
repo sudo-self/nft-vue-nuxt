@@ -1,5 +1,5 @@
-# How i built <a href="http://sudo-self-content-wind.nuxt.space/"> this website.</a>
- hosted with gh pages [nuxt studio][(https://sudo-self-content-wind.nuxt.space)
+# How i built this&nbsp;<a href="http://sudo-self-content-wind.nuxt.space/">&nbsp;website.</a>
+ hosted with gh pages [nuxt studio](https://sudo-self-content-wind.nuxt.space).
 
 ## Setup
 

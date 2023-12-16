@@ -1,6 +1,5 @@
-# How i built<a href="http://sudo-self-content-wind.nuxt.space/" this website.
-
-My website made by [Content Wind](https://content-wind.nuxt.space) theme.
+# How i built <a href="http://sudo-self-content-wind.nuxt.space/"> this website.</a>
+ hosted with gh pages [nuxt studio][(https://sudo-self-content-wind.nuxt.space)
 
 ## Setup
 

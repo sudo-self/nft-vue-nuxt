@@ -8,6 +8,7 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
+    "@nuxtjs/pwa": "^3.3.5",
     "content-wind": "latest",
     "nuxt": "latest"
   }

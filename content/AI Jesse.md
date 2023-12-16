@@ -1,2 +1,2 @@
-[AI Jesse](https://ai.jessejesse.com)&nbsp;a natural language chatbot based on chat GPT.
+[AI Jesse](https://ai.jessejesse.com)&nbsp;is a natural language chatbot based on chat GPT.
     <img src="https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/ai%20j.png" alt="Tailwind-CSS-Avatar-component" />

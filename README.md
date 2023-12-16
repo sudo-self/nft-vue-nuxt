@@ -1,4 +1,4 @@
-# How i built this&nbsp;<a href="http://sudo-self-content-wind.nuxt.space/">&nbsp;website.</a>[![studio-nuxt-build](https://github.com/sudo-self/content-wind/actions/workflows/studio.yml/badge.svg)](https://github.com/sudo-self/content-wind/actions/workflows/studio.yml)<br>
+# How i built this&nbsp;<a href="http://sudo-self-content-wind.nuxt.space/">&nbsp;Website&nbsp;</a>[![studio-nuxt-build](https://github.com/sudo-self/content-wind/actions/workflows/studio.yml/badge.svg)](https://github.com/sudo-self/content-wind/actions/workflows/studio.yml)<br>
 hosted with gh pages [nuxt studio](https://sudo-self-content-wind.nuxt.space).
 
 ## Setup

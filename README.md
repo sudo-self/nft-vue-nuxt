@@ -1,4 +1,4 @@
-# My Website
+# How i built this website
 
 My website made by [Content Wind](https://content-wind.nuxt.space) theme.
 

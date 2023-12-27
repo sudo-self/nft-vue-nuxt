@@ -1,16 +1,13 @@
 ---
 navigation.title: 'blog'
 ---
-# Build a guestbook with NextAuth and Supabase
-### Stack
-
 -   Next.js as a framework
 -   NextAuth (Authentication for Next.js)
 -   Supabase (guestbook database)
 
-## Supabase
+### Supabase
 
-### What is supabase?
+#### What is supabase?
 
 Supabase is an open source Firebase alternative providing all the backend features you need to build a product and offer user more simple UI then Firebase.
 

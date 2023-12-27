@@ -1,3 +1,6 @@
+---
+navigation.title: 'blog'
+---
 # Build a guestbook with NextAuth and Supabase
 ### Stack
 

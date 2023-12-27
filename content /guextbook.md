@@ -7,8 +7,6 @@ navigation.title: 'guestbook'
 
 ### Supabase
 
-#### What is supabase?
-
 Supabase is an open source Firebase alternative providing all the backend features you need to build a product and offer user more simple UI then Firebase.
 
 Install supabase

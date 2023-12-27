@@ -1,5 +1,5 @@
 ---
-navigation.title: 'blog'
+navigation.title: 'build'
 ---
 -   Next.js as a framework
 -   NextAuth (Authentication for Next.js)

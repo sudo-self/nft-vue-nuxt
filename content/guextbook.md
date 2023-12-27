@@ -1,5 +1,5 @@
 ---
-navigation.title: 'guestbook'
+navigation.title: '6.guestbook'
 ---
 -   Next.js as a framework
 -   NextAuth (Authentication for Next.js)

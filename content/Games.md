@@ -1,4 +1,4 @@
 ---
-navigation.title: 'Remixd'
+navigation.title: 'Java'
 ---
-<center>CO-OP Work as a team to solve<iframe src="https://wurdle.jessejesse.com" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="450px" allowfullscreen></iframe></center>
+<iframe src="https://sudo-self.com" name="showIframe" width="90%" height="800"></iframe>
